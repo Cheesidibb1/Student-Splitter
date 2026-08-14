@@ -231,7 +231,7 @@ def chooseRandom():
 
 def opengithub():
     webbrowser.open_new(
-        "https://github.com/Cheesidibb1/StudentSplitter"
+        "https://github.com/Cheesidibb1/Student-Splitter"
     )
 
 
