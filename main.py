@@ -1,5 +1,4 @@
 import tkinter as tk
-from pydoc import text
 from tkinter import filedialog, font, simpledialog, messagebox
 import webbrowser
 import random
